@@ -121,13 +121,6 @@ def quit_game():
 def main():
     global score
 
-    # Game sounds
-    sounds_game['die'] = pygame.mixer.Sound('audio/die.wav')
-    sounds_game['hit'] = pygame.mixer.Sound('audio/hit.wav')
-    sounds_game['point'] = pygame.mixer.Sound('audio/point.wav')
-    sounds_game['swoosh'] = pygame.mixer.Sound('audio/swoosh.wav')
-    sounds_game['wing'] = pygame.mixer.Sound('audio/wing.wav')
-
     # Instantiate Bird
     bird = pygame.sprite.GroupSingle()
     bird.add(Bird())
