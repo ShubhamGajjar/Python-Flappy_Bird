@@ -1,7 +1,6 @@
 import pygame
 from sys import exit
 import random
-sounds_game = {}
 
 pygame.init()
 clock = pygame.time.Clock()
