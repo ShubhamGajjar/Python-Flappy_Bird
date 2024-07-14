@@ -35,9 +35,6 @@ This is a simple implementation of the Flappy Bird game using Pygame.
     └── start.png
     ```
     
-
-
-
 ## Usage
 
 To run the game, simply execute the script:
