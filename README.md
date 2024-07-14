@@ -31,7 +31,7 @@ This is a simple implementation of the Flappy Bird game using Pygame.
     ├── game_over.png
     ├── ground.png
     ├── pipe_bottom.png
-    ├── game_over.png
+    ├── pipe_top.png
     └── start.png
     ```
 
