@@ -41,7 +41,7 @@ To run the game, simply execute the script:
 ```sh
 python main.py
 ```
-- Press 'Space' key to go up 
+- Press 'Space' key or 'up' arrow to go flap the bird up.
 
 ## Gameplay
 ![Game Start](https://github.com/user-attachments/assets/b5dbfe29-3e0f-4c26-bb65-1e05b51bd7b1)
