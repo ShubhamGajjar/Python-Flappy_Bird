@@ -25,7 +25,7 @@ This is a simple implementation of the Flappy Bird game using Pygame.
     ```
     Flappy Bird/assets/
     ├── background.png
-    ├── bird_mid.png
+    ├── bird_down.png
     ├── bird_up.png
     ├── background.png
     ├── ground.png
@@ -34,6 +34,7 @@ This is a simple implementation of the Flappy Bird game using Pygame.
     ├── game_over.png
     └── start.png
     ```
+
 
 ## Usage
 
