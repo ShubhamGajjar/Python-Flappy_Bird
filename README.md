@@ -38,7 +38,7 @@ This is a simple implementation of the Flappy Bird game using Pygame.
 ## Usage
 
 To run the game, simply execute the script:
-```py
+```sh
 python main.py
 ```
 ## Gameplay
