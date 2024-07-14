@@ -29,11 +29,12 @@ This is a simple implementation of the Flappy Bird game using Pygame.
     ├── bird_mid.png
     ├── bird_up.png
     ├── game_over.png
-    ├── pipe_top.png
+    ├── ground.png
     ├── pipe_bottom.png
     ├── game_over.png
     └── start.png
     ```
+
 ## Usage
 
 To run the game, simply execute the script:
