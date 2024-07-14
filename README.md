@@ -26,7 +26,7 @@ This is a simple implementation of the Flappy Bird game using Pygame.
     Flappy Bird/assets/
     ├── background.png
     ├── bird_down.png
-    ├── bird_up.png
+    ├── bird_mid.png
     ├── background.png
     ├── ground.png
     ├── pipe_top.png
