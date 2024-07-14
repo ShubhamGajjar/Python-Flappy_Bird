@@ -45,6 +45,7 @@ python flappy_bird.py
 ```
 ## Gameplay
 ![Game Start](https://github.com/user-attachments/assets/b5dbfe29-3e0f-4c26-bb65-1e05b51bd7b1)
+![Mid Round](https://github.com/user-attachments/assets/bc9ae13b-d650-4d2a-94fc-847b39f79065)
 
 ## License
 
