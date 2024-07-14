@@ -34,6 +34,9 @@ This is a simple implementation of the Flappy Bird game using Pygame.
     ├── pipe_top.png
     └── start.png
     ```
+    
+
+
 
 ## Usage
 
