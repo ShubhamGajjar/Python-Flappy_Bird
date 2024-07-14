@@ -24,7 +24,7 @@ This is a simple implementation of the Flappy Bird game using Pygame.
 3. Ensure you have the necessary assets in the `assets` folder:
     ```
     Flappy Bird/assets/
-    ├── bird_down.png
+    ├── background.png
     ├── bird_mid.png
     ├── bird_up.png
     ├── background.png
@@ -34,6 +34,7 @@ This is a simple implementation of the Flappy Bird game using Pygame.
     ├── game_over.png
     └── start.png
     ```
+
 ## Usage
 
 To run the game, simply execute the script:
