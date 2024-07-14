@@ -7,7 +7,6 @@ This is a simple implementation of the Flappy Bird game using Pygame.
 - [Usage](#usage)
 - [Gameplay](#gameplay)
 - [Files](#files)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
