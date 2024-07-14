@@ -13,7 +13,7 @@ This is a simple implementation of the Flappy Bird game using Pygame.
 1. Clone the repository:
     ```sh
     git clone https://github.com/ShubhamGajjar/flappy-bird-game.git
-    cd Flappy-Bird-game
+    cd Flappy-Bird-Game
     ```
 
 2. Install the required dependencies:
