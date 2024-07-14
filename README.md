@@ -43,3 +43,7 @@ To run the game, simply execute the script:
 ```sh
 python flappy_bird.py
 ```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
